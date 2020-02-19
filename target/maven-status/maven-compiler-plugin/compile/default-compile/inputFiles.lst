@@ -1,0 +1,16 @@
+C:\Users\mi\IdeaProjects\meeting\src\main\java\edu\ncu\dao\IMeetingJoinUserDao.java
+C:\Users\mi\IdeaProjects\meeting\src\main\java\edu\ncu\service\IUserService.java
+C:\Users\mi\IdeaProjects\meeting\src\main\java\edu\ncu\service\IMeetingService.java
+C:\Users\mi\IdeaProjects\meeting\src\main\java\edu\ncu\domain\Role.java
+C:\Users\mi\IdeaProjects\meeting\src\main\java\edu\ncu\domain\User.java
+C:\Users\mi\IdeaProjects\meeting\src\main\java\edu\ncu\controller\MeetingController.java
+C:\Users\mi\IdeaProjects\meeting\src\main\java\edu\ncu\dao\IUserDao.java
+C:\Users\mi\IdeaProjects\meeting\src\main\java\edu\ncu\domain\Meeting.java
+C:\Users\mi\IdeaProjects\meeting\src\main\java\edu\ncu\service\impl\UserServiceImpl.java
+C:\Users\mi\IdeaProjects\meeting\src\main\java\edu\ncu\domain\Permission.java
+C:\Users\mi\IdeaProjects\meeting\src\main\java\edu\ncu\service\IMeetingJoinUserService.java
+C:\Users\mi\IdeaProjects\meeting\src\main\java\edu\ncu\service\impl\MeetingServiceImpl.java
+C:\Users\mi\IdeaProjects\meeting\src\main\java\edu\ncu\domain\MeetingJoinUser.java
+C:\Users\mi\IdeaProjects\meeting\src\main\java\edu\ncu\service\impl\MeetingJoinUserServiceImpl.java
+C:\Users\mi\IdeaProjects\meeting\src\main\java\edu\ncu\controller\MeetingJoinUserController.java
+C:\Users\mi\IdeaProjects\meeting\src\main\java\edu\ncu\dao\IMeetingDao.java
